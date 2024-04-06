@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 // Here I have provided the mongoDb to the cloud, so that anyone can acces the form anywhere.
-const DB ="mongodb+srv://abhimanyurawat079:7Domuiy2npdGYuj2@cluster0.7mhugx9.mongodb.net/polling?retryWrites=true&w=majority&appName=Cluster0"
+const DB ="mongodb+srv://abhimanyurawat079:7Domuiy2npdGYuj2@cluster0.7mhugx9.mongodb.net/pollingapi?retryWrites=true&w=majority&appName=Cluster0"
 
 
 // let DB = ('mongodb://localhost:27017/Polling_System');
